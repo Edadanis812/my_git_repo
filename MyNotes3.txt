@@ -3,8 +3,7 @@ Local Code
 
 Remote Code
  
-<<<<<<< HEAD
 Hi How are you?
-=======
+
 Hey I am good
->>>>>>> c3b31813d15260927a6f04c9236a1ce9c1d3fa33
+
